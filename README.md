@@ -1,5 +1,5 @@
 
-### TalkTrail
+# TalkTrail
 
 TalkTrail is an innovative journaling platform that transforms your spoken thoughts into actionable insights. By combining voice-to-text journaling with advanced machine learning, the app provides unique, empathetic perspectives to help users reframe their experiences and foster personal growth.
 
@@ -59,3 +59,4 @@ This project is optimized for deployment on [Vercel](https://vercel.com). Simply
 
 ```
 ```
+
