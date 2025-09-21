@@ -1,0 +1,17 @@
+# Dependency directories
+/node_modules
+
+# Next.js build output
+/.next/
+/out/
+
+# Environment files
+.env.local
+.env.*.local
+
+# npm debug logs
+npm-debug.log*
+.npm/
+
+# Other
+.DS_Store
